@@ -1,4 +1,4 @@
-body, p, a, h3, input, .moreinfo {
+body, p, a, h3, input, #moreinfo {
     margin: 0;
     padding: 0;
     border: 0;
